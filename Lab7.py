@@ -214,5 +214,4 @@ visited = [False for i in range(len(G))]
 prev = [-1 for i in range(len(G))]
 print("Adjacency List: ")
 print(G)
-#print(AdjList(walls, originalWalls, maze))
 print()
